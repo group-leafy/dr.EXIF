@@ -2,14 +2,12 @@
 layout: main
 ---
 
-## Welcome to app-page-tempalte
+## Description
 
-app-page-tempalte is a github page template for app.
+Dr.EXIF is a beautiful app to help you view photo info
 
-You can quickly create an app github page through it.
+## Features
 
-Whenever you commit to your repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Page
-
-You can click here to preview a [page example](page);
+* Supports viewing EXIF, TIFF, JFIF, GIF, GPS, PNG photo info
+* EXIF Documentation inside to help you better understand the meaning of the info
+* Support removing photo location to protect your privacy
