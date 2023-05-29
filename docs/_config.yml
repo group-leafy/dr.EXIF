@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: 'Dr.EXIF'
 description: 'A photo info viewer with documentation'
-# google_analytics: G-NWQY9CVPF7
+google_analytics: G-J1WLJCG2CX
 
 show_ios_download_btn: true
 ios_download_url: 'https://apps.apple.com/us/app/id1543861410'
